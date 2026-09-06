@@ -128,7 +128,9 @@ The report includes slicers for:
 These filters allow users to perform focused analysis without modifying the report.
 
 ---
+## 📊 Dashboard Preview
 
+![Blinkit Power BI Dashboard](images/Dashboard_Image.png)
 ## 🔍 Key Insights
 
 The analysis produced several useful findings:
